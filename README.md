@@ -40,7 +40,7 @@ kantemirov_rs@debian11:~$
 
 `При необходимости прикрепитe сюда скриншоты`
 
-[autoresation admin](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix0.png)
+![autoresation admin](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix0.png)`
 
 
 ---
@@ -59,7 +59,7 @@ kantemirov_rs@debian11:~$
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
 ![Configuration](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix1.png)`
-![Last data](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix2.png)`
+![Lastdata](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix2.png)`
 ![Log](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix3.png)`
 
 
