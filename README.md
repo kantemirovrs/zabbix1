@@ -39,19 +39,19 @@ kantemirov_rs@debian11:~$
 
 
 `При необходимости прикрепитe сюда скриншоты`
-
+```
 ![autoresation admin](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix0.png)`
 
+```
 
----
 
 ### Задание 2
-```
+
 Поле для вставки кода...
  wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_latest+debian11_all.deb
  dpkg -i zabbix-release_latest+debian11_all.deb
  apt update 
- 
+ ```
  apt install zabbix-agent
  systemctl restart zabbix-agent
  systemctl enable  zabbix-agent
@@ -59,7 +59,9 @@ kantemirov_rs@debian11:~$
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
 ![Configuration](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix1.png)`
+
 ![Lastdata](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix2.png)`
+
 ![Log](https://github.com/kantemirovrs/zabbix1/blob/main/img/zabbix3.png)`
 
 
